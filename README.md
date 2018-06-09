@@ -1,2 +1,0 @@
-# concurrency
-concurrency programming learning
